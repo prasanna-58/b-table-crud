@@ -2,7 +2,7 @@
   <div class="home">
     <h3 class="heading">Employee Management</h3>
     <div>
-      <b-row>
+      <!-- <b-row>
         <b-col lg="6" class="my-1">
           <b-form-group
             label="Sort"
@@ -42,8 +42,8 @@
             </b-form-select>
           </b-form-group>
         </b-col>
-      </b-row>
-      <b-row>
+      </b-row> -->
+      <!-- <b-row>
         <b-col lg="6" class="my-1">
           <b-form-group
             label="Filter"
@@ -83,8 +83,8 @@
             </b-form-checkbox-group>
           </b-form-group>
         </b-col>
-      </b-row>
-      <b-row>
+      </b-row> -->
+      <!-- <b-row>
         <b-col sm="5" md="6" class="my-1">
           <b-form-group
             label="Per page"
@@ -103,7 +103,7 @@
             ></b-form-select>
           </b-form-group>
         </b-col>
-      </b-row>
+      </b-row> -->
     </div>
     <div style="float:right;margin:10px;">
       <b-button size="sm" @click="addEmployee">Add New Employee</b-button>
